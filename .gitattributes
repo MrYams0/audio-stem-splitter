@@ -1,0 +1,11 @@
+# Language detection rules
+*.min.css linguist-generated
+*.ico binary
+Cargo.lock linguist-generated
+*.md linguist-documentation
+*.gif binary
+*.htm linguist-vendored
+src/** linguist-detectable 
+
+*.jpeg binary  
+*.png binary
